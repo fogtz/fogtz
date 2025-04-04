@@ -10,7 +10,7 @@
 
 💻 Aqui no GitHub, você vai encontrar meus projetos, estudos, ideias malucas e um pouco da minha evolução como desenvolvedor.
 
-Sempre buscando aprender mais, experimentar coisas novas e colaborar com projetos.
+- Sempre buscando aprender mais, experimentar coisas novas e colaborar com projetos.
 
 <p align="left">
     <img alt="city" title="My City" src="https://custom-icon-badges.demolab.com/badge/Curitiba-PR-55960?style=for-the-badge&labelColor=488207&logo=location&logoColor=white"/>
